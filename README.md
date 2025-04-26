@@ -1,2 +1,2 @@
 # MyFirstRepo
-first repo
+My First Repository - Welcome to my project!
